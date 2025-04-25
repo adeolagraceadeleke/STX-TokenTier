@@ -1,6 +1,6 @@
 # STX-TokenTier -  Subscription Service Smart Contract
 
-This smart contract implements a decentralized, blockchain-based subscription service using the [Clarity language](https://docs.stacks.co/write-smart-contracts/clarity-ref). It allows users to subscribe to and manage paid plans directly with STX tokens, while enabling the contract owner to administer plans and withdraw funds securely.
+This smart contract implements a decentralized, blockchain-based subscription service using Clarity. It allows users to subscribe to and manage paid plans directly with STX tokens, while enabling the contract owner to administer plans and withdraw funds securely.
 
 ---
 
